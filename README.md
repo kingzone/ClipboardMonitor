@@ -1,4 +1,4 @@
 ClipboardMonitor
 ================
 
-Windows Clipboard Monitor
+Windows Clipboard Monitor (WIN32 Edition)
